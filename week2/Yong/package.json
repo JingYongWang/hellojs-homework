@@ -1,0 +1,18 @@
+{
+  "name": "lovedpotato",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "lint": "jshint **.js",
+    "test": "mocha test/"
+  },
+  "author": "Yong",
+  "license": "ISC",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "eslint": "^3.1.1"
+  }
+}
